@@ -1,0 +1,25 @@
+{
+  "details": [
+    {
+      "name": "Abhi",
+      "college": "AIST",
+      "branch": "CSE",
+      "percentage": 71,
+      "id": 0
+    },
+    {
+      "name": "ABhishek",
+      "college": "eklne",
+      "branch": "dejkb",
+      "percentage": "67",
+      "id": 1
+    },
+    {
+      "name": "abhi",
+      "college": "sads",
+      "branch": "ss",
+      "percentage": "77",
+      "id": 2
+    }
+  ]
+}
